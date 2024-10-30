@@ -32,14 +32,17 @@ Este proyecto es una plantilla para conectar y operar con una base de datos Post
 
 Les recomiendo utilizar DBeaver para la creacion de la base de datos,
 deben presionar en nueva conexion
+
 ![alt text](imagenes/dbBeaverCreacion.png)
 
 Luego presionan postgres y siguiente
+
 ![alt text](imagenes/Postgres.png)
 
 
 Finalmente seleccionan URL para obtener la url de conexion
 y definen el nombre de usuario y contraseña
+
 ![alt text](imagenes/confPostgres.png)
 
 Presionan finalizar y ya deberian tener su base de datos lista para usar
