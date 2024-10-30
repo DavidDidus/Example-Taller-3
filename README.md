@@ -6,7 +6,7 @@ Este proyecto es una plantilla para conectar y operar con una base de datos Post
 
 - **Java 8 o superior**: Asegúrate de tener el JDK instalado. Puedes descargarlo desde [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) o [OpenJDK](https://openjdk.java.net/install/).
 - **Maven**: Herramienta de gestión de proyectos y dependencias. Puedes descargarlo desde [Apache Maven](https://maven.apache.org/download.cgi).
-  - **Alternativa**: Si usas Visual Studio Code, puedes instalar la extensión [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack), que incluye herramientas de soporte para Java y permite manejar dependencias de Maven sin una instalación adicional.
+  - **Alternativa**: Si usas Visual Studio Code, puedes instalar la extensión [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack), que incluye herramientas de soporte para Java y permite manejar dependencias de Maven sin una instalación adicional (Lo recomiendo mas en caso de nunca haber utilizado maven).
 - **PostgreSQL**: Sistema de gestión de bases de datos. Puedes descargarlo desde [PostgreSQL](https://www.postgresql.org/download/).
 
 ## Configuración
