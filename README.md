@@ -48,5 +48,5 @@ Presionan finalizar y ya deberian tener su base de datos lista para usar
 
 - Clona el repositorio:
   ```sh
-  git clone <URL_DEL_REPOSITORIO>
+  git clone <https://github.com/DavidDidus/Example-Taller-3.git>
   cd jdbc-template
